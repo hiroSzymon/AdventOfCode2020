@@ -21,3 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/AoC2020_1/AoC2020_1.iml
+/.idea/
+/AoC2020_2/AoC2020_2.iml
