@@ -13,6 +13,7 @@
         <module>AoC2020_2</module>
         <module>UtilsLib</module>
         <module>AoC2020_3</module>
+        <module>AoC2020_4</module>
     </modules>
 
     <properties>
