@@ -14,6 +14,8 @@
         <module>UtilsLib</module>
         <module>AoC2020_3</module>
         <module>AoC2020_4</module>
+        <module>AoC2020_5</module>
+        <module>AoC2020_6</module>
     </modules>
 
     <properties>
